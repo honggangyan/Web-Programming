@@ -1,1 +1,4 @@
-# This is project to reproduce three pages of Google Main Search, Google Image Search and Google Advanced Search.
+# This is project to reproduce Google Search
+- Google Main Search
+- Google Image Search 
+- Google Advanced Search
