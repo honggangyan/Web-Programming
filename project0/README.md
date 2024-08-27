@@ -1,4 +1,4 @@
-# This is project to reproduce Google Search
+# This is a project to reproduce Google Search
 - Google Main Search
 - Google Image Search 
 - Google Advanced Search
